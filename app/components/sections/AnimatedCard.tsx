@@ -81,7 +81,7 @@ export default function AnimatedCard() {
               </p>
 
               <p className="font-[Satoshi,sans-serif] font-medium text-[16px] leading-[100%] tracking-[0em] text-[#6B6B6B] mt-4">
-                Let's book &amp; talk with our manager.
+                Let's turn your ideas into reality.
               </p>
             </div>
 
